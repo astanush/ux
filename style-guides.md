@@ -1,48 +1,46 @@
 # Style guides
 
-https://prague2013.drupal.org/session/beyond-style-guides-building-responsive-future-friendly-style-systems-browser
-
-http://cognition.happycog.com/article/the-scoop-on-our-benjerry.com-style-guide
-
 Brand identity style guides from around the world  
 http://www.logodesignlove.com/brand-identity-style-guides
 
 Design Systems: Building for the Future  
-http://css-tricks.com/design-systems-building-future/
+http://css-tricks.com/design-systems-building-future
+
+https://prague2013.drupal.org/session/beyond-style-guides-building-responsive-future-friendly-style-systems-browser
+
+http://cognition.happycog.com/article/the-scoop-on-our-benjerry.com-style-guide
 
 
 ## Pattern library
 
 http://alistapart.com/blog/post/getting-started-with-pattern-libraries
 
-Anna’s bookmarks for pattern libraries: https://gimmebar.com/collection/4ecd439c2f0aaad734000022/front-end-styleguides
+Anna Debenham's bookmarks for pattern libraries  
+https://gimmebar.com/collection/4ecd439c2f0aaad734000022/front-end-styleguides
 
 ### Outdated UX patterns
 
-http://sideproject.io/outdated-ux-patterns
-
-https://github.com/Snugug/north#outdated-ux-patterns
+* http://sideproject.io/outdated-ux-patterns
+* https://github.com/Snugug/north#outdated-ux-patterns
 
 ### Atomic design
 
-http://bradfrostweb.com/blog/post/atomic-web-design
-http://notebookandpenguin.com/atomic-design-makes-me-feel-like-a-chemist
-http://stuffandnonsense.co.uk/blog/about/an-extract-from-designing-atoms-and-elements
+* http://bradfrostweb.com/blog/post/atomic-web-design
+* http://notebookandpenguin.com/atomic-design-makes-me-feel-like-a-chemist
+* http://stuffandnonsense.co.uk/blog/about/an-extract-from-designing-atoms-and-elements
 
 ## Tools
 
-https://github.com/bradfrost/patternlab
+* https://github.com/bradfrost/patternlab
+* http://trulia.github.io/hologram
+* https://github.com/lewisnyman/tensile
+* https://github.com/Team-Sass/generator-style-prototype 
 
-http://trulia.github.io/hologram
+**Automated style guides**
 
-http://warpspire.com/kss
+* http://warpspire.com/kss
+* http://jacobrask.github.io/styledocco
 
-http://jacobrask.github.io/styledocco
-
-
-https://github.com/lewisnyman/tensile
-
-https://github.com/Team-Sass/generator-style-prototype
 
 ## Online branding style guides
 
@@ -70,17 +68,18 @@ Atlassian: https://docs.atlassian.com/aui/latest/sandbox/#
 
 ## Best practices
 
-http://goodui.org
+* http://goodui.org
+* http://www.vanseodesign.com/web-design/signal-to-noise-ratio
 
-http://www.vanseodesign.com/web-design/signal-to-noise-ratio
+How users read
+* http://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/
+* http://www.nngroup.com/articles/website-reading
 
-How users read: http://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/
+Navigation
+* http://www.nngroup.com/articles/navigation-cognitive-strain/
 
-http://www.nngroup.com/articles/website-reading
-
-Navigation: http://www.nngroup.com/articles/navigation-cognitive-strain/
-
-Sidebars: http://www.nngroup.com/articles/fight-right-rail-blindness/
+Sidebars
+* http://www.nngroup.com/articles/fight-right-rail-blindness/
 
 
 ## Writing style guides
