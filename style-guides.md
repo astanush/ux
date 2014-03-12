@@ -64,6 +64,10 @@ Yelp: http://www.yelp.com/styleguide
 
 Atlassian: https://docs.atlassian.com/aui/latest/sandbox/#
 
+**Other examples**
+
+* http://paulrobertlloyd.com/about/styleguide/
+
 
 
 ## Best practices
