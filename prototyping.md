@@ -84,10 +84,10 @@ http://www.divshot.com
 
 Bootstrap
 
-   * Sass: https://github.com/twbs/bootstrap-sass
-   * Themes: http://bootswatch.com
-   * Templates: http://startbootstrap.com/all-templates
-   * Bootstrap without all the debt
+* Sass: https://github.com/twbs/bootstrap-sass
+* Themes: http://bootswatch.com
+* Templates: http://startbootstrap.com/all-templates
+* Bootstrap without all the debt
 
 Foundation
 
@@ -95,14 +95,15 @@ Sassaparilla
 
 Ribs
 
-Jekyll
+[Jekyll](http://jekyllrb.com/)
 
-   * https://github.com/plusjade/jekyll-bootstrap
+* https://github.com/robwierzbowski/generator-jekyllrb   
+* https://github.com/plusjade/jekyll-bootstrap
 
-Sculpin
+[Sculpin](https://sculpin.io)
 
-   * Static site generator written in PHP
-   * https://sculpin.io
+* Static site generator written in PHP
+
 
 http://protytype.com
 
