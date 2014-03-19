@@ -64,10 +64,17 @@ Yelp: http://www.yelp.com/styleguide
 
 Atlassian: https://docs.atlassian.com/aui/latest/sandbox/#
 
+SurveyMonkey: http://chriscoyier.github.io/SurveyMonkey-Design-Patterns
+
+Disqus: http://disqus.com/pages/style-guide
+
+Salesforce: http://sfdc-styleguide.herokuapp.com
+
+Mozilla: http://www.mozilla.org/en-US/styleguide
+
 **Other examples**
 
-* http://paulrobertlloyd.com/about/styleguide/
-
+Personal website: http://paulrobertlloyd.com/about/styleguide
 
 
 ## Best practices
