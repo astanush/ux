@@ -16,6 +16,8 @@ http://www.usability.gov/how-to-and-tools/methods/prototyping.html
 
 http://uxdesign.smashingmagazine.com/2014/03/06/building-clickthrough-prototypes-to-support-participatory-design/
 
+http://www.creativebloq.com/netmag/why-wireframes-should-be-left-die-31411165
+
 ## Planning
 
 ### IA planning
