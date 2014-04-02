@@ -18,7 +18,7 @@ http://alistapart.com/blog/post/getting-started-with-pattern-libraries
 Anna Debenham's bookmarks for pattern libraries  
 https://gimmebar.com/collection/4ecd439c2f0aaad734000022/front-end-styleguides
 
-A/B testing UX patterns
+A/B testing UX patterns  
 http://blog.getprismatic.com/list-beats-grid-linear-feeds-perform-two-to-three-times-better-than-grids-2/
 
 ### Outdated UX patterns
