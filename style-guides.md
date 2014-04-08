@@ -10,6 +10,8 @@ https://prague2013.drupal.org/session/beyond-style-guides-building-responsive-fu
 
 http://cognition.happycog.com/article/the-scoop-on-our-benjerry.com-style-guide
 
+http://alistapart.com/article/creating-style-guides
+
 
 ## Style tiles
 
