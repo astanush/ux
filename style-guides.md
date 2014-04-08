@@ -11,6 +11,13 @@ https://prague2013.drupal.org/session/beyond-style-guides-building-responsive-fu
 http://cognition.happycog.com/article/the-scoop-on-our-benjerry.com-style-guide
 
 
+## Style tiles
+
+http://alistapart.com/article/style-tiles-and-how-they-work
+
+http://markboulton.co.uk/journal/collaborativemoodboards
+
+
 ## Pattern library
 
 http://alistapart.com/blog/post/getting-started-with-pattern-libraries
