@@ -82,20 +82,20 @@ http://froont.com
 
 http://www.divshot.com
 
-### HTML frameworks
+### Frontend frameworks
 
-Bootstrap
+[Bootstrap](http://getbootstrap.com/)
 
 * Sass: https://github.com/twbs/bootstrap-sass
 * Themes: http://bootswatch.com
 * Templates: http://startbootstrap.com/all-templates
 * Bootstrap without all the debt
 
-Foundation
+[Foundation](http://foundation.zurb.com/)
 
-Sassaparilla
+http://usablica.github.io/front-end-frameworks/compare.html
 
-Ribs
+### HTML frameworks
 
 [Jekyll](http://jekyllrb.com/)
 
