@@ -48,12 +48,13 @@ http://blog.getprismatic.com/list-beats-grid-linear-feeds-perform-two-to-three-t
 * https://github.com/lewisnyman/tensile
 * https://github.com/Team-Sass/generator-style-prototype
 * https://github.com/hagenburger/livingstyleguide
-* https://github.com/kneath/kss
-  * https://github.com/hughsk/kss-node
+
 
 **Automated style guides**
 
 * http://warpspire.com/kss
+  * https://github.com/kneath/kss
+  * https://github.com/hughsk/kss-node
 * http://jacobrask.github.io/styledocco
 
 
