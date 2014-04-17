@@ -41,12 +41,15 @@ http://blog.getprismatic.com/list-beats-grid-linear-feeds-perform-two-to-three-t
 * http://notebookandpenguin.com/atomic-design-makes-me-feel-like-a-chemist
 * http://stuffandnonsense.co.uk/blog/about/an-extract-from-designing-atoms-and-elements
 
-## Tools
+## Style guide tools
 
 * https://github.com/bradfrost/patternlab
 * http://trulia.github.io/hologram
 * https://github.com/lewisnyman/tensile
-* https://github.com/Team-Sass/generator-style-prototype 
+* https://github.com/Team-Sass/generator-style-prototype
+* https://github.com/hagenburger/livingstyleguide
+* https://github.com/kneath/kss
+  * https://github.com/hughsk/kss-node
 
 **Automated style guides**
 
