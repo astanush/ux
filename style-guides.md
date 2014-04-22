@@ -12,6 +12,16 @@ http://cognition.happycog.com/article/the-scoop-on-our-benjerry.com-style-guide
 
 http://alistapart.com/article/creating-style-guides
 
+## Style Guide Driven Development (SDD)
+
+https://uxmag.com/articles/anchoring-your-design-language-in-a-live-style-guide
+
+http://www.stubbornella.org/content/2014/04/09/style-guide-driven-development/ (video)
+
+https://speakerdeck.com/hagenburger/style-guide-driven-development
+
+[Style Guide-driven UI Design with Sass - Jina Bolton](https://vimeo.com/45897176) (video)
+
 
 ## Style tiles
 
