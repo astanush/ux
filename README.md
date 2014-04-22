@@ -2,6 +2,8 @@
 
 ## Process and tools
 
+[Content strategy and planning](content.md)
+
 [Prototyping](prototyping.md)
 
 [Style guides](style-guides.md)
