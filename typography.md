@@ -21,3 +21,13 @@ https://www.google.com/fonts/
 http://www.fonts.com/
 
 http://www.webtype.com/
+
+## Web fonts on desktop
+
+https://skyfonts.com/
+
+* http://www.fonts.com/browse/font-tools/skyfonts
+* http://www.fonts.com/web-fonts/google
+* http://www.myfonts.com/info/skyfonts/
+
+[Typekit desktop sync](http://help.typekit.com/customer/portal/articles/1189216-introduction-to-desktop-fonts-from-typekit)
