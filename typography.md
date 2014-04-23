@@ -10,21 +10,23 @@ http://typecast.com/blog/a-more-modern-scale-for-web-typography/
 
 http://welchcanavan.com/responsive-modular-scale/
 
+
 ## Web font hosting
 
-http://www.typography.com/cloud/
+[Cloud Typography](http://www.typography.com/cloud/) by H&Co
 
-https://typekit.com/
+[Typekit](https://typekit.com/)
 
-https://www.google.com/fonts/
+[Google Web Fonts](https://www.google.com/fonts/)
 
-http://www.fonts.com/
+[Fonts.com](http://www.fonts.com/)
 
-http://www.webtype.com/
+[WebType](http://www.webtype.com/)
+
 
 ## Web fonts on desktop
 
-https://skyfonts.com/
+[SkyFonts](https://skyfonts.com/)
 
 * http://www.fonts.com/browse/font-tools/skyfonts
 * http://www.fonts.com/web-fonts/google
