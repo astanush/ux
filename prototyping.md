@@ -130,11 +130,11 @@ https://github.com/Snugug/generator-sketch
 
 ## Client feedback, image annotations
 
-notableapp.com
+http://notableapp.com
 
-bounceapp.com
+http://bounceapp.com
 
-markup.io (not active, working on new version)
+http://markup.io (not active, working on new version)
 
 
 ## Paper prototyping + mobile
