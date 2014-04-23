@@ -26,10 +26,10 @@ http://welchcanavan.com/responsive-modular-scale/
 
 ## Web fonts on desktop
 
-[SkyFonts](https://skyfonts.com/)
+[SkyFonts](https://skyfonts.com/) - Allows you to temporarily install desktop fonts 
 
-* http://www.fonts.com/browse/font-tools/skyfonts
-* http://www.fonts.com/web-fonts/google
-* http://www.myfonts.com/info/skyfonts/
+* [Fonts.com](http://www.fonts.com/browse/font-tools/skyfonts)
+* [Google Web Fonts](http://www.fonts.com/web-fonts/google)
+* [MyFonts](http://www.myfonts.com/info/skyfonts/)
 
 [Typekit desktop sync](http://help.typekit.com/customer/portal/articles/1189216-introduction-to-desktop-fonts-from-typekit)
