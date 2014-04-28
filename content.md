@@ -8,10 +8,11 @@ Articles
 
 Books
 
-* http://www.abookapart.com/products/the-elements-of-content-strategy
-* http://www.abookapart.com/products/content-strategy-for-mobile
-* http://contentstrategy.com/book.html
-* http://rosenfeldmedia.com/books/content-everywhere/
+* [The Elements of Content Strategy](http://www.abookapart.com/products/the-elements-of-content-strategy/) (A Book Apart), Erin Kissane 
+* [Content Strategy for Mobile](http://www.abookapart.com/products/content-strategy-for-mobile/) (A Book Apart), Karen McGrane
+* [Content Strategy for the Web](http://contentstrategy.com/book.html), Kristina Halvorson and Melissa Rach
+* [Content Everywhere](http://rosenfeldmedia.com/books/content-everywhere/), Sara Wachter-Boettcher
+* [Content Strategy at Work](http://appropriateinc.com/book/)
 
 ## Content planning
 
