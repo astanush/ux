@@ -39,7 +39,3 @@ http://www.smashingmagazine.com/2014/04/17/after-editorially-alternative-collabo
 https://www.gathercontent.com/
 
 https://prismic.io/
-
-## Resources
-
-
