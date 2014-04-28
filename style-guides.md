@@ -100,6 +100,8 @@ Mozilla: http://www.mozilla.org/en-US/styleguide
 
 Editorially: http://editorially.github.io/styleguide/ ([source](https://github.com/Editorially/styleguide))
 
+Lonely Planet: http://rizzo.lonelyplanet.com/styleguide/
+
 **Other examples**
 
 Personal website: http://paulrobertlloyd.com/about/styleguide
