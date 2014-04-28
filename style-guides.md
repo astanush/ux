@@ -68,7 +68,7 @@ http://blog.getprismatic.com/list-beats-grid-linear-feeds-perform-two-to-three-t
 * http://jacobrask.github.io/styledocco
 
 
-## Online branding style guides
+## Frontend style guides
 
 Google
 * Part 1: http://www.behance.net/gallery/Google-Visual-Assets-Guidelines-Part-1/9028077
