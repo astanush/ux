@@ -41,4 +41,3 @@ https://prismic.io/
 
 * [Confab](http://confabevents.com/)
 * [Congility](http://www.congility.com/)
-* 
