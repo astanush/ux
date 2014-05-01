@@ -85,7 +85,7 @@ http://blog.getprismatic.com/list-beats-grid-linear-feeds-perform-two-to-three-t
 
 Google - [Part 1](http://www.behance.net/gallery/Google-Visual-Assets-Guidelines-Part-1/9028077), [Part 2](http://www.behance.net/gallery/Google-Visual-Assets-Guidelines-Part-2/9084309)
 
-Lonely Planet: http://rizzo.lonelyplanet.com/styleguide/
+[Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/)
 
 [Mailchimp](http://ux.mailchimp.com/patterns)
 
