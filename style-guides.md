@@ -73,41 +73,40 @@ http://blog.getprismatic.com/list-beats-grid-linear-feeds-perform-two-to-three-t
 
 ## Frontend style guides
 
-Google
-* Part 1: http://www.behance.net/gallery/Google-Visual-Assets-Guidelines-Part-1/9028077
-* Part 2: http://www.behance.net/gallery/Google-Visual-Assets-Guidelines-Part-2/9084309
+[A List Apart](http://patterns.alistapart.com/) ([source](https://github.com/alistapart/pattern-library))
 
-Mailchimp: http://ux.mailchimp.com/patterns
+[Atlassian](https://docs.atlassian.com/aui/latest/sandbox/#)
 
-Mapbox: https://www.mapbox.com/base
+[Code for America](http://style.codeforamerica.org/)
 
-A List Apart: http://patterns.alistapart.com (source)
+[Disqus](http://disqus.com/pages/style-guide/)
 
-Starbucks: http://www.starbucks.com/static/reference/styleguide
+[Editorially](http://editorially.github.io/styleguide/) ([source](https://github.com/Editorially/styleguide))
 
-UPenn: http://www.upenn.edu/webservices/styleguide
-
-Code for America: http://style.codeforamerica.org
-
-Yelp: http://www.yelp.com/styleguide
-
-Atlassian: https://docs.atlassian.com/aui/latest/sandbox/#
-
-SurveyMonkey: http://chriscoyier.github.io/SurveyMonkey-Design-Patterns
-
-Disqus: http://disqus.com/pages/style-guide
-
-Salesforce: http://sfdc-styleguide.herokuapp.com
-
-Mozilla: http://www.mozilla.org/en-US/styleguide
-
-Editorially: http://editorially.github.io/styleguide/ ([source](https://github.com/Editorially/styleguide))
+Google - [Part 1](http://www.behance.net/gallery/Google-Visual-Assets-Guidelines-Part-1/9028077), [Part 2](http://www.behance.net/gallery/Google-Visual-Assets-Guidelines-Part-2/9084309)
 
 Lonely Planet: http://rizzo.lonelyplanet.com/styleguide/
 
+[Mailchimp](http://ux.mailchimp.com/patterns)
+
+[Mapbox](https://www.mapbox.com/base)
+
+[Mozilla](http://www.mozilla.org/en-US/styleguide/)
+
+[Salesforce](http://sfdc-styleguide.herokuapp.com)
+
+[Starbucks](http://www.starbucks.com/static/reference/styleguide/)
+
+[SurveyMonkey](http://chriscoyier.github.io/SurveyMonkey-Design-Patterns/)
+
+[UPenn](http://www.upenn.edu/webservices/styleguide/)
+
+[Yelp](http://www.yelp.com/styleguide/)
+
+
 **Other examples**
 
-Personal website: http://paulrobertlloyd.com/about/styleguide
+[Personal website of Paul Robert Lloyd](http://paulrobertlloyd.com/about/styleguide/)
 
 
 ## Best practices
