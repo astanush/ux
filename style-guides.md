@@ -53,19 +53,22 @@ http://blog.getprismatic.com/list-beats-grid-linear-feeds-perform-two-to-three-t
 
 ## Style guide tools
 
+[The Style Guide guide](http://vinspee.me/style-guide-guide/), lists style guide generators by type
+
 * https://github.com/bradfrost/patternlab
 * http://trulia.github.io/hologram
 * https://github.com/lewisnyman/tensile
 * https://github.com/Team-Sass/generator-style-prototype
 * https://github.com/hagenburger/livingstyleguide
+* http://sourcejs.com
 
 
 **Automated style guides**
 
-* http://warpspire.com/kss
+* [KSS](http://warpspire.com/kss)
   * https://github.com/kneath/kss
   * https://github.com/hughsk/kss-node
-* http://jacobrask.github.io/styledocco
+* [StyleDocco](http://jacobrask.github.io/styledocco)
 
 
 ## Frontend style guides
