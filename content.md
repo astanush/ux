@@ -5,12 +5,17 @@
 ### Articles
 
 * http://alistapart.com/topic/content-strategy
+* http://blog.gathercontent.com/how-to-implement-content-strategy-on-your-client-projects
 
 ### Thought Leaders
 
 * Karen McGrane
 * Kristina Halvorson
 * Sara Wachter-Boettcher
+
+### Blogs
+
+* http://blog.gathercontent.com
 
 ### Books
 
