@@ -35,7 +35,8 @@
 
 Articles
 
-* http://alistapart.com/topic/writing
+* [A List Apart articles on writing](http://alistapart.com/topic/writing)
+* [Using Page Tables to Deliver Meaningful Design](http://www.chapterthree.com/blog/nica-lorber/using-page-tables-deliver-meaningful-design)
 
 ### Tools
 
