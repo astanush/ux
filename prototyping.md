@@ -59,7 +59,7 @@ You cannot create mock ups within the app, but using the tools above, you can ma
 
 http://www.invisionapp.com
 
-http://www.notableapp.com
+http://www.solidifyapp.com
 
 https://marvelapp.com
 
@@ -146,6 +146,11 @@ POP: Prototyping on Paper, popapp.in
 http://www.tactiledesignkit.com
 
 http://www.uistencils.com
+
+
+## Feedback tools
+
+http://www.notableapp.com
 
 
 ## User testing
