@@ -16,6 +16,10 @@ http://welchcanavan.com/responsive-modular-scale/
 
 http://typecast.com/blog/readable-fluid-type-with-basic-css-smarts/
 
+## Design patterns
+
+[Typographic Design Patterns And Current Practices (2013 Edition)](http://www.smashingmagazine.com/2013/05/17/typographic-design-patterns-practices-case-study-2013/), Smashing Magazine
+
 
 ## Web font hosting
 
