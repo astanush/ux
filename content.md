@@ -24,7 +24,7 @@
 * [Content Strategy for the Web](http://contentstrategy.com/book.html), Kristina Halvorson and Melissa Rach
 * [Content Everywhere](http://rosenfeldmedia.com/books/content-everywhere/), Sara Wachter-Boettcher
 * [Content Strategy at Work](http://appropriateinc.com/book/), Margot Bloomstein
-* * [Content Production Planning for Agencies](https://www.gathercontent.com/content-production-planning-for-agencies/) (eBook)
+* [Content Production Planning for Agencies](https://www.gathercontent.com/content-production-planning-for-agencies/) (eBook)
 
 ### Events
 
