@@ -12,10 +12,12 @@
 * Karen McGrane
 * Kristina Halvorson
 * Sara Wachter-Boettcher
+* [Mandy Brown](http://aworkinglibrary.com/)
 
 ### Blogs
 
-* http://blog.gathercontent.com
+* [contentsmagazine.net](http://contentsmagazine.net/)
+* [GatherContent blog](http://blog.gathercontent.com)
 
 ### Books
 
