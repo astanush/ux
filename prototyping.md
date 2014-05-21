@@ -18,6 +18,10 @@ http://uxdesign.smashingmagazine.com/2014/03/06/building-clickthrough-prototypes
 
 http://www.creativebloq.com/netmag/why-wireframes-should-be-left-die-31411165
 
+### Discussions
+
+[What do you use for prototyping?](https://news.layervault.com/stories/23818-ask-dn-what-do-you-use-for-prototyping) (Designer News)
+
 ## Planning
 
 ### IA planning
