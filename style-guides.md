@@ -48,7 +48,6 @@ http://blog.getprismatic.com/list-beats-grid-linear-feeds-perform-two-to-three-t
 ### Atomic design
 
 * http://bradfrostweb.com/blog/post/atomic-web-design
-* http://notebookandpenguin.com/atomic-design-makes-me-feel-like-a-chemist
 * http://stuffandnonsense.co.uk/blog/about/an-extract-from-designing-atoms-and-elements
 
 ## Style guide tools
