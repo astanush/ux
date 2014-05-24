@@ -9,9 +9,9 @@
 
 ### Thought Leaders
 
-* Karen McGrane
+* [Karen McGrane](http://karenmcgrane.com/)
 * Kristina Halvorson
-* Sara Wachter-Boettcher
+* [Sara Wachter-Boettcher](http://www.sarawb.com/)
 * [Mandy Brown](http://aworkinglibrary.com/)
 
 ### Blogs
