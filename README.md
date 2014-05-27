@@ -15,5 +15,5 @@ A collection of articles, books, thought leaders, case studies, and tool on vari
 What good are processes and tools without a little [creative inspiration](inspiration.md)?
 
 ## More
-[Dan Edwards' list](https://medium.com/design-ux/799d16952a56) of 200+ sites, apps & books that I recommend any designer should check out.
 
+[Oozled](http://oozled.com/) is a curated collection of resources for web designers and developers.
