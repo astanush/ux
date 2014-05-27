@@ -1,6 +1,6 @@
-# UX
+# UX process and tools
 
-## Process and tools
+A collection of articles, books, thought leaders, case studies, and tool on various topics:
 
 [Content strategy and planning](content.md)
 
