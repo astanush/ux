@@ -27,7 +27,7 @@ http://alistapart.com/article/style-tiles-and-how-they-work
 http://markboulton.co.uk/journal/collaborativemoodboards
 
 
-## Pattern library
+## Pattern libraries
 
 http://alistapart.com/blog/post/getting-started-with-pattern-libraries
 
@@ -112,7 +112,7 @@ Entertainment Weekly by [Brad Frost](http://bradfrostweb.com/blog/post/entertain
 
 ## Books
 
-http://maban.co.uk/projects/front-end-style-guides/
+[Front-End Style Guides Pocket Guide](http://maban.co.uk/projects/front-end-style-guides/) by Anna Debenham
 
 
 ## Other types of style guides
