@@ -4,13 +4,13 @@
 
 ### Articles
 
-* http://alistapart.com/topic/content-strategy
+* [Content Strategy articles on A List Apart](http://alistapart.com/topic/content-strategy/)
 * http://blog.gathercontent.com/how-to-implement-content-strategy-on-your-client-projects
 
 ### Thought Leaders
 
-* Karen McGrane
-* Kristina Halvorson
+* Karen McGrane: [@karenmcgrane](https://twitter.com/karenmcgrane), [website](http://karenmcgrane.com/)
+* Kristina Halvorson: [website](http://braintraffic.com/)
 * Sara Wachter-Boettcher
 * [Mandy Brown](http://aworkinglibrary.com/)
 
