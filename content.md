@@ -10,9 +10,9 @@
 ### Thought Leaders
 
 * Karen McGrane: [@karenmcgrane](https://twitter.com/karenmcgrane), [website](http://karenmcgrane.com/)
-* Kristina Halvorson: [website](http://braintraffic.com/)
-* Sara Wachter-Boettcher
-* [Mandy Brown](http://aworkinglibrary.com/)
+* Kristina Halvorson: [@halvorson](https://twitter.com/halvorson), [website](http://braintraffic.com/)
+* Sara Wachter-Boettcher: [@sara_ann_marie](https://twitter.com/sara_ann_marie), [website](http://www.sarawb.com/)
+* Mandy Brown: [@aworkinglibrary](https://twitter.com/aworkinglibrary), [website](http://aworkinglibrary.com/)
 
 ### Blogs
 
