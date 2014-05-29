@@ -2,7 +2,7 @@
 
 ## Articles
 
-http://alistapart.com/article/creating-style-guides
+[Creating Style Guides](http://alistapart.com/article/creating-style-guides) (alistapart.com)
 
 [Design Systems: Building for the Future](http://css-tricks.com/design-systems-building-future) (css-tricks.com)
 
