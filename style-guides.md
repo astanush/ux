@@ -2,6 +2,8 @@
 
 ## Articles
 
+[Front-end Style Guides](http://24ways.org/2011/front-end-style-guides/) (24ways.org) by Anna Debenham
+
 [Creating Style Guides](http://alistapart.com/article/creating-style-guides) (alistapart.com)
 
 [Design Systems: Building for the Future](http://css-tricks.com/design-systems-building-future) (css-tricks.com)
@@ -102,18 +104,30 @@ Google: [Part 1](http://www.behance.net/gallery/Google-Visual-Assets-Guidelines-
 
 ## Case studies
 
-[Ben & Jerry's](http://cognition.happycog.com/article/the-scoop-on-our-benjerry.com-style-guide/) by Happy Cog
-
 Entertainment Weekly by [Brad Frost](http://bradfrostweb.com/blog/post/entertainment-weekly/), [Josh Clark](http://globalmoxie.com/blog/entertainment-weekly.shtml), [Jonathan Stark](http://jonathanstark.com/blog/entertainment-weekly/), and [Dan Mall](http://superfriend.ly/Entertainment-Weekly-Responsive-Mobile-Site)
 
+[Code for America](http://clearleft.com/thinks/patternsharing/) by ClearLeft
 
-## Branding style guides
+[Ben & Jerry's](http://cognition.happycog.com/article/the-scoop-on-our-benjerry.com-style-guide/) by Happy Cog
+
+## Books
+
+http://maban.co.uk/projects/front-end-style-guides/
+
+
+## Other types of style guides
+
+### Branding style guides
 
 [Brand identity style guides from around the world](http://www.logodesignlove.com/brand-identity-style-guides) (logodesignlove.com)
 
 
-## Writing style guides
+### Writing style guides
 
-Mailchimp’s writing guidelines: http://voiceandtone.com 
+Mailchimp’s writing guidelines: http://voiceandtone.com
+
+
+
+
 
 
