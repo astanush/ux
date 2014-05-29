@@ -5,7 +5,7 @@
 ### Articles
 
 * [Content Strategy articles on A List Apart](http://alistapart.com/topic/content-strategy/)
-* http://blog.gathercontent.com/how-to-implement-content-strategy-on-your-client-projects
+* [How to implement content strategy on your client projects](http://blog.gathercontent.com/how-to-implement-content-strategy-on-your-client-projects) (http://blog.gathercontent.com/)
 
 ### Thought Leaders
 
@@ -13,6 +13,7 @@
 * Kristina Halvorson: [@halvorson](https://twitter.com/halvorson), [website](http://braintraffic.com/)
 * Sara Wachter-Boettcher: [@sara_ann_marie](https://twitter.com/sara_ann_marie), [website](http://www.sarawb.com/)
 * Mandy Brown: [@aworkinglibrary](https://twitter.com/aworkinglibrary), [website](http://aworkinglibrary.com/)
+* Jeff Eaton: [@eaton](https://twitter.com/eaton), [website](http://angrylittletree.com/)
 
 ### Blogs
 
