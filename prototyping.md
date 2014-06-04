@@ -2,21 +2,21 @@
 
 ## Articles
 
-http://hackdesign.org/lessons/10
+[Responsive Comping: Obtaining Signoff without Mockups](http://alistapart.com/article/responsive-comping-obtaining-signoff-with-mockups), Matt Griffin (alistapart.com)
 
-http://www.onextrapixel.com/2013/03/01/22-good-prototype-and-wireframe-tools-for-mobile-and-web-design
+[Rapid Prototyping Tools & Best Practices](http://hackdesign.org/lessons/10) (hackdesign.org)
 
-http://www.creativebloq.com/web-design/best-prototyping-tools-responsive-web-design-11135150
+[Design Better And Faster With Rapid Prototyping](http://www.smashingmagazine.com/2010/06/16/design-better-faster-with-rapid-prototyping/) (smashingmagazine.com)
 
-http://www.smashingmagazine.com/2010/06/16/design-better-faster-with-rapid-prototyping/
+[Prototyping](http://www.usability.gov/how-to-and-tools/methods/prototyping.html) (usability.gov)
 
-http://www.smashingapps.com/2013/07/05/the-ultimate-collection-of-prototype-and-wireframe-tools-for-mobile-and-web-design.html
+[Building Clickthrough Prototypes To Support Participatory Design](http://uxdesign.smashingmagazine.com/2014/03/06/building-clickthrough-prototypes-to-support-participatory-design/) (smashingmagazine.com)
 
-http://www.usability.gov/how-to-and-tools/methods/prototyping.html
+[Start Coding with Wireframes](http://alistapart.com/column/start-coding-with-wireframes), Matt Griffin (alistapart.com)
 
-http://uxdesign.smashingmagazine.com/2014/03/06/building-clickthrough-prototypes-to-support-participatory-design/
+[Why wireframes should be left to die](http://www.creativebloq.com/netmag/why-wireframes-should-be-left-die-31411165/) (creativebloq.com)
 
-http://www.creativebloq.com/netmag/why-wireframes-should-be-left-die-31411165
+[HTML Wireframes](http://bradfrostweb.com/blog/post/html-wireframes/), Brad Frost
 
 ### Discussions
 
