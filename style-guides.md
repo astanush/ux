@@ -62,7 +62,7 @@ http://blog.getprismatic.com/list-beats-grid-linear-feeds-perform-two-to-three-t
 * https://github.com/Team-Sass/generator-style-prototype
 * https://github.com/hagenburger/livingstyleguide
 * http://sourcejs.com
-
+* [Dexy](http://www.dexy.it), documentation tool
 
 **Automated style guides**
 
@@ -114,6 +114,11 @@ Entertainment Weekly by [Brad Frost](http://bradfrostweb.com/blog/post/entertain
 [Code for America](http://clearleft.com/thinks/patternsharing/) by ClearLeft
 
 [Ben & Jerry's](http://cognition.happycog.com/article/the-scoop-on-our-benjerry.com-style-guide/) by Happy Cog
+
+## Presentations
+
+[Thinking inside the box inside the box inside the box: Designing with style guides](http://codingdesigner.github.io/box/), Mason Wendell (DrupalCon Austin 2014)
+
 
 ## Books
 
