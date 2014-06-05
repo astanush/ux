@@ -2,11 +2,13 @@
 
 ## Articles
 
-[Front-end Style Guides](http://24ways.org/2011/front-end-style-guides/) (24ways.org) by Anna Debenham
+[Front-end Style Guides](http://24ways.org/2011/front-end-style-guides/), Anna Debenham (24ways.org)
 
 [Creating Style Guides](http://alistapart.com/article/creating-style-guides) (alistapart.com)
 
 [Design Systems: Building for the Future](http://css-tricks.com/design-systems-building-future) (css-tricks.com)
+
+[The Post PSD Era doesn’t want to kill designers](https://medium.com/ux-ux-human-interfaces/the-post-psd-era-doesnt-want-to-kill-designers-4281d505fd9a), Trevor Connolly
 
 
 ## Style Guide Driven Development (SDD)
@@ -26,6 +28,9 @@ http://alistapart.com/article/style-tiles-and-how-they-work
 
 http://markboulton.co.uk/journal/collaborativemoodboards
 
+## Visual inventory
+
+Dan Mall defines a [visual inventory](http://danielmall.com/articles/visual-inventory/) as "a design deliverable for the post-PSD era of responsive design".
 
 ## Pattern libraries
 
