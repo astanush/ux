@@ -8,6 +8,8 @@
 
 [Design Systems: Building for the Future](http://css-tricks.com/design-systems-building-future) (css-tricks.com)
 
+[Anchoring Your Design Language in a Live Style Guide](https://uxmag.com/articles/anchoring-your-design-language-in-a-live-style-guide) (uxmag.com)
+
 [The Post PSD Era doesn’t want to kill designers](https://medium.com/ux-ux-human-interfaces/the-post-psd-era-doesnt-want-to-kill-designers-4281d505fd9a), Trevor Connolly
 
 [A Maintainable Style Guide](http://ianfeather.co.uk/a-maintainable-style-guide/), Ian Feather
@@ -15,11 +17,9 @@
 
 ## Style Guide Driven Development (SDD)
 
-https://uxmag.com/articles/anchoring-your-design-language-in-a-live-style-guide
+[Video](http://www.stubbornella.org/content/2014/04/09/style-guide-driven-development/): Nicole Sullivan and Colin O’Byrne talk about SDD, a term that was coined in the New York office of Pivotal Labs.
 
-http://www.stubbornella.org/content/2014/04/09/style-guide-driven-development/ (video)
-
-https://speakerdeck.com/hagenburger/style-guide-driven-development
+[Slide deck](https://speakerdeck.com/hagenburger/style-guide-driven-development): Style Guide Driven Development by Nico Hagenburger
 
 [Style Guide-driven UI Design with Sass - Jina Bolton](https://vimeo.com/45897176) (video)
 
