@@ -64,6 +64,7 @@ Dan Mall defines a [visual inventory](http://danielmall.com/articles/visual-inve
 * https://github.com/hagenburger/livingstyleguide
 * http://sourcejs.com
 * [Dexy](http://www.dexy.it), documentation tool
+* https://github.com/paulrobertlloyd/barebones
 
 **Automated style guides**
 
