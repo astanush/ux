@@ -26,9 +26,9 @@
 
 ## Style tiles, mood boards
 
-http://alistapart.com/article/style-tiles-and-how-they-work
+[Style Tiles and How They Work](http://alistapart.com/article/style-tiles-and-how-they-work), Samantha Warren (alistapart.com)
 
-http://markboulton.co.uk/journal/collaborativemoodboards
+[Collaborative Moodboards](http://markboulton.co.uk/journal/collaborativemoodboards/), Mark Boulton (markboulton.co.uk)
 
 ## Visual inventory
 
@@ -36,12 +36,10 @@ Dan Mall defines a [visual inventory](http://danielmall.com/articles/visual-inve
 
 ## Pattern libraries
 
-http://alistapart.com/blog/post/getting-started-with-pattern-libraries
+[Getting Started With Pattern Libraries](http://alistapart.com/blog/post/getting-started-with-pattern-libraries/), (alistapart.com)
 
 [Anna Debenham's bookmarks for frontend style guides](https://gimmebar.com/collection/4ecd439c2f0aaad734000022/front-end-styleguides)
 
-A/B testing UX patterns  
-http://blog.getprismatic.com/list-beats-grid-linear-feeds-perform-two-to-three-times-better-than-grids-2/
 
 ### Outdated UX patterns
 
@@ -50,9 +48,8 @@ http://blog.getprismatic.com/list-beats-grid-linear-feeds-perform-two-to-three-t
 
 ### Atomic design
 
-* http://bradfrostweb.com/blog/post/atomic-web-design
-* http://notebookandpenguin.com/atomic-design-makes-me-feel-like-a-chemist
-* http://stuffandnonsense.co.uk/blog/about/an-extract-from-designing-atoms-and-elements
+* [Atomic design](http://bradfrostweb.com/blog/post/atomic-web-design), Brad Frost
+* [An extract from Designing Atoms and Elements](http://stuffandnonsense.co.uk/blog/about/an-extract-from-designing-atoms-and-elements) (stuffandnonsense.co.uk)
 
 ## Style guide tools
 
