@@ -4,6 +4,8 @@
 
 [Front-end Style Guides](http://24ways.org/2011/front-end-style-guides/), Anna Debenham (24ways.org)
 
+[Responsive Deliverables](http://daverupert.com/2013/04/responsive-deliverables/), Dave Rupert
+
 [Creating Style Guides](http://alistapart.com/article/creating-style-guides) (alistapart.com)
 
 [Design Systems: Building for the Future](http://css-tricks.com/design-systems-building-future) (css-tricks.com)
