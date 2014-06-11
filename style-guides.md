@@ -10,6 +10,8 @@
 
 [The Post PSD Era doesn’t want to kill designers](https://medium.com/ux-ux-human-interfaces/the-post-psd-era-doesnt-want-to-kill-designers-4281d505fd9a), Trevor Connolly
 
+[A Maintainable Style Guide](http://ianfeather.co.uk/a-maintainable-style-guide/), Ian Feather
+
 
 ## Style Guide Driven Development (SDD)
 
@@ -115,14 +117,21 @@ Entertainment Weekly by [Brad Frost](http://bradfrostweb.com/blog/post/entertain
 
 [Ben & Jerry's](http://cognition.happycog.com/article/the-scoop-on-our-benjerry.com-style-guide/) by Happy Cog
 
-## Presentations
+
+## Resources
+
+### Presentations
 
 [Thinking inside the box inside the box inside the box: Designing with style guides](http://codingdesigner.github.io/box/), Mason Wendell (DrupalCon Austin 2014)
 
 
-## Books
+### Books
 
 [Front-End Style Guides Pocket Guide](http://maban.co.uk/projects/front-end-style-guides/) by Anna Debenham
+
+### Podcasts
+
+[Style Guides with Anna Debenham](http://5by5.tv/webahead/72), The Web Ahead
 
 
 ## Other types of style guides
