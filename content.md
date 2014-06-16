@@ -45,8 +45,7 @@
 
 ### Tools
 
-http://www.smashingmagazine.com/2014/04/17/after-editorially-alternative-collaborative-online-writing-tools/
-
-https://www.gathercontent.com/
-
-https://prismic.io/
+* [GatherContent](https://www.gathercontent.com/)
+* [After Editorially: The Search For Alternative Collaborative Online Writing Tools](http://www.smashingmagazine.com/2014/04/17/after-editorially-alternative-collaborative-online-writing-tools/) (smashingmagazine.com)
+* [Prismic](https://prismic.io/), content API and "writing room" tool
+* [Hemmingway](http://www.hemingwayapp.com/), analyzes your writing to make it easier to read including a grade-level reading score.
