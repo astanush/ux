@@ -28,11 +28,6 @@
 
 https://www.jumpchart.com
 
-### Content planning
-
-https://www.gathercontent.com
-
-
 ## Wireframing
 
 http://balsamiq.com/products/mockups + MyBalsamiq
@@ -54,7 +49,9 @@ http://www.justinmind.com
 
 http://www.hotgloo.com
 
-http://proto.io (mobile prototypes)
+http://proto.io, mobile prototypes
+
+http://protytype.com
 
 
 ### BYOS (Bring Your Own Screens)
@@ -110,16 +107,16 @@ http://usablica.github.io/front-end-frameworks/compare.html
 
 * Static site generator written in PHP
 
-
-http://protytype.com
-
-http://mixture.io
-
 Bourbon
 
    * bourbon.io
    * Grid: neat.bourbon.io
    * UI kit: bitters.bourbon.io
+
+### HTML prototyping tools
+
+* https://incident57.com/codekit
+* http://mixture.io
 
 ## Grid systems
 
