@@ -49,3 +49,4 @@
 * [After Editorially: The Search For Alternative Collaborative Online Writing Tools](http://www.smashingmagazine.com/2014/04/17/after-editorially-alternative-collaborative-online-writing-tools/) (smashingmagazine.com)
 * [Prismic](https://prismic.io/), content API and "writing room" tool
 * [Hemmingway](http://www.hemingwayapp.com/), analyzes your writing to make it easier to read including a grade-level reading score.
+* [Penflip](https://www.penflip.com/), collaborative writing, version control, Markdown support
