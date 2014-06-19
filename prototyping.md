@@ -124,18 +124,16 @@ gridsetapp.com
 
 ## Frontend starter kits
 
-https://github.com/beardedstudio/stubble
-
-https://github.com/Snugug/generator-sketch
+* https://github.com/beardedstudio/stubble
+* https://github.com/Snugug/generator-sketch
+* https://github.com/google/web-starter-kit
 
 
 ## Client feedback, image annotations
 
-http://notableapp.com
-
-http://bounceapp.com
-
-http://markup.io (not active, working on new version)
+* http://notableapp.com
+* http://bounceapp.com
+* http://markup.io (not active, working on new version)
 
 
 ## Paper prototyping + mobile
