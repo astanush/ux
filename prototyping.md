@@ -30,58 +30,44 @@ https://www.jumpchart.com
 
 ## Wireframing
 
-http://balsamiq.com/products/mockups + MyBalsamiq
-
-https://moqups.com
-
-http://www.bohemiancoding.com/sketch
-
-   * Templates: http://sketchmine.co
+* http://balsamiq.com/products/mockups + MyBalsamiq
+* https://moqups.com
+* http://www.bohemiancoding.com/sketch
+ * Templates: http://sketchmine.co
 
 
 ### Interactive wireframes / prototypes
 
-http://www.axure.com
-
-   * http://uxdesign.smashingmagazine.com/2014/02/26/creating-responsive-prototypes-adaptive-views-axure-rp-7/
-
-http://www.justinmind.com
-
-http://www.hotgloo.com
-
-http://proto.io, mobile prototypes
-
-http://protytype.com
+* http://www.axure.com
+ * http://uxdesign.smashingmagazine.com/2014/02/26/creating-responsive-prototypes-adaptive-views-axure-rp-7/
+* http://www.justinmind.com
+* http://www.hotgloo.com
+* http://proto.io, mobile prototypes
+* http://protytype.com
 
 
 ### BYOS (Bring Your Own Screens)
 
 You cannot create mock ups within the app, but using the tools above, you can make your screens clickable.
 
-http://www.invisionapp.com
-
-http://www.solidifyapp.com
-
-https://marvelapp.com
+* http://www.invisionapp.com
+* http://www.solidifyapp.com
+* https://marvelapp.com
 
 #### BYOS - Mobile
 
-https://popapp.in
-
-https://www.flinto.com
-
-http://getlaunch.com
-
-https://protosketch.uistencils.com
+* https://popapp.in
+* https://www.flinto.com
+* http://getlaunch.com
+* https://protosketch.uistencils.com
 
 ## Responsive prototypes
 
-https://www.easel.io
-* Includes support for bootstrap http://help.easel.io/guide/using-bootstrap
-
-http://froont.com
-
-http://www.divshot.com
+* https://www.easel.io
+ * Includes support for bootstrap http://help.easel.io/guide/using-bootstrap
+* http://froont.com
+* http://www.divshot.com
+* http://macaw.co
 
 ### Frontend frameworks
 
@@ -118,16 +104,15 @@ Bourbon
 * https://incident57.com/codekit
 * http://mixture.io
 
-## Grid systems
-
-gridsetapp.com
-
 ## Frontend starter kits
 
 * https://github.com/beardedstudio/stubble
 * https://github.com/Snugug/generator-sketch
 * https://github.com/google/web-starter-kit
 
+## Grid systems
+
+* gridsetapp.com
 
 ## Client feedback, image annotations
 
