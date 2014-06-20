@@ -104,6 +104,8 @@ Google: [Part 1](http://www.behance.net/gallery/Google-Visual-Assets-Guidelines-
 
 [SurveyMonkey](http://chriscoyier.github.io/SurveyMonkey-Design-Patterns/)
 
+[Ubuntu](http://design.ubuntu.com/web/)
+
 [UPenn](http://www.upenn.edu/webservices/styleguide/)
 
 [Yelp](http://www.yelp.com/styleguide/)
