@@ -1,20 +1,16 @@
 # Typography
 
+## Tutorials
+
+* http://typecast.com/blog/readable-fluid-type-with-basic-css-smarts/
+* http://www.elliotjaystocks.com/blog/responsive-web-typography/
 
 ## Typographic scale
 
-http://alistapart.com/article/more-meaningful-typography/
-
-http://modularscale.com/
-
-http://typecast.com/blog/a-more-modern-scale-for-web-typography/
-
-http://welchcanavan.com/responsive-modular-scale/
-
-
-## Tutorials
-
-http://typecast.com/blog/readable-fluid-type-with-basic-css-smarts/
+* http://alistapart.com/article/more-meaningful-typography/
+* http://modularscale.com/
+* http://typecast.com/blog/a-more-modern-scale-for-web-typography/
+* http://welchcanavan.com/responsive-modular-scale/
 
 ## Design patterns
 
@@ -23,16 +19,11 @@ http://typecast.com/blog/readable-fluid-type-with-basic-css-smarts/
 
 ## Web font hosting
 
-[Cloud Typography](http://www.typography.com/cloud/) by H&Co
-
-[Typekit](https://typekit.com/)
-
-[Google Web Fonts](https://www.google.com/fonts/)
-
-[Fonts.com](http://www.fonts.com/)
-
-[WebType](http://www.webtype.com/)
-
+* [Cloud Typography](http://www.typography.com/cloud/) by H&Co
+* [Typekit](https://typekit.com/)
+* [Google Web Fonts](https://www.google.com/fonts/)
+* [Fonts.com](http://www.fonts.com/)
+* [WebType](http://www.webtype.com/)
 
 ## Web fonts on desktop
 
