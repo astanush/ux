@@ -88,7 +88,7 @@ Dan Mall defines a [visual inventory](http://danielmall.com/articles/visual-inve
 
 [Editorially](http://editorially.github.io/styleguide/) ([source](https://github.com/Editorially/styleguide))
 
-Google: [Part 1](http://www.behance.net/gallery/Google-Visual-Assets-Guidelines-Part-1/9028077), [Part 2](http://www.behance.net/gallery/Google-Visual-Assets-Guidelines-Part-2/9084309)
+[Google](http://www.google.com/design/spec/material-design/introduction.html)
 
 [Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/)
 
