@@ -88,6 +88,8 @@ Dan Mall defines a [visual inventory](http://danielmall.com/articles/visual-inve
 
 [Editorially](http://editorially.github.io/styleguide/) ([source](https://github.com/Editorially/styleguide))
 
+[Github](https://github.com/styleguide/)
+
 [Google](http://www.google.com/design/spec/material-design/introduction.html)
 
 [Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/)
