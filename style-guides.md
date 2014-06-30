@@ -76,42 +76,26 @@ Dan Mall defines a [visual inventory](http://danielmall.com/articles/visual-inve
 
 ## Frontend style guides
 
-[A List Apart](http://patterns.alistapart.com/) ([source](https://github.com/alistapart/pattern-library))
+* [A List Apart](http://patterns.alistapart.com/) ([source](https://github.com/alistapart/pattern-library))
+* [Atlassian](https://docs.atlassian.com/aui/latest/sandbox/#)
+* [BBC](http://www.bbc.co.uk/gel)
+* [Code for America](http://style.codeforamerica.org/)
+* [Disqus](http://disqus.com/pages/style-guide/)
+* [Editorially](http://editorially.github.io/styleguide/) ([source](https://github.com/Editorially/styleguide))
+* [Github](https://github.com/styleguide/)
+* [Google](http://www.google.com/design/spec/material-design/introduction.html)
+* [Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/)
+* [Mailchimp](http://ux.mailchimp.com/patterns)
+* [Mapbox](https://www.mapbox.com/base)
+* [Mozilla](http://www.mozilla.org/en-US/styleguide/)
+* [Salesforce](http://sfdc-styleguide.herokuapp.com)
+* [Starbucks](http://www.starbucks.com/static/reference/styleguide/)
+* [SurveyMonkey](http://chriscoyier.github.io/SurveyMonkey-Design-Patterns/)
+* [Ubuntu](http://design.ubuntu.com/web/)
+* [UPenn](http://www.upenn.edu/webservices/styleguide/)
+* [Yelp](http://www.yelp.com/styleguide/)
 
-[Atlassian](https://docs.atlassian.com/aui/latest/sandbox/#)
-
-[BBC](http://www.bbc.co.uk/gel)
-
-[Code for America](http://style.codeforamerica.org/)
-
-[Disqus](http://disqus.com/pages/style-guide/)
-
-[Editorially](http://editorially.github.io/styleguide/) ([source](https://github.com/Editorially/styleguide))
-
-[Github](https://github.com/styleguide/)
-
-[Google](http://www.google.com/design/spec/material-design/introduction.html)
-
-[Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/)
-
-[Mailchimp](http://ux.mailchimp.com/patterns)
-
-[Mapbox](https://www.mapbox.com/base)
-
-[Mozilla](http://www.mozilla.org/en-US/styleguide/)
-
-[Salesforce](http://sfdc-styleguide.herokuapp.com)
-
-[Starbucks](http://www.starbucks.com/static/reference/styleguide/)
-
-[SurveyMonkey](http://chriscoyier.github.io/SurveyMonkey-Design-Patterns/)
-
-[Ubuntu](http://design.ubuntu.com/web/)
-
-[UPenn](http://www.upenn.edu/webservices/styleguide/)
-
-[Yelp](http://www.yelp.com/styleguide/)
-
+http://findguidelin.es/
 
 ## Case studies
 
