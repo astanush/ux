@@ -91,7 +91,7 @@ Dan Mall defines a [visual inventory](http://danielmall.com/articles/visual-inve
 * [Salesforce](http://sfdc-styleguide.herokuapp.com)
 * [Starbucks](http://www.starbucks.com/static/reference/styleguide/)
 * [SurveyMonkey](http://chriscoyier.github.io/SurveyMonkey-Design-Patterns/)
-* [Ubuntu](http://design.ubuntu.com/web/)
+* [Ubuntu](http://design.ubuntu.com/web-style-guide/)
 * [UPenn](http://www.upenn.edu/webservices/styleguide/)
 * [Yelp](http://www.yelp.com/styleguide/)
 
