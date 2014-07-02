@@ -2,6 +2,7 @@
 
 * http://goodui.org
 * http://www.vanseodesign.com/web-design/signal-to-noise-ratio
+* http://www.smashingmagazine.com/2014/06/24/affordance-most-underrated-word-in-web-design/
 
 ## How users read
 
