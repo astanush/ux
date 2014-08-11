@@ -59,9 +59,11 @@ Dan Mall defines a [visual inventory](http://danielmall.com/articles/visual-inve
 
 * https://github.com/Team-Sass/generator-style-prototype
 * https://github.com/bradfrost/patternlab
+* https://github.com/resource/fabricator
 * https://github.com/lewisnyman/tensile
 * https://github.com/hagenburger/livingstyleguide
 * https://github.com/paulrobertlloyd/barebones
+* https://github.com/bjankord/Style-Guide-Boilerplate
 * http://sourcejs.com
 
 **Automated style guides**
