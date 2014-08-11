@@ -131,10 +131,5 @@ Entertainment Weekly by [Brad Frost](http://bradfrostweb.com/blog/post/entertain
 
 ### Writing style guides
 
-Mailchimp’s writing guidelines: http://voiceandtone.com
-
-
-
-
-
-
+* Mailchimp’s writing guidelines: http://voiceandtone.com
+* Gov.UK content style guide: https://www.gov.uk/design-principles/style-guide
