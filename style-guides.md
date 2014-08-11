@@ -57,14 +57,12 @@ Dan Mall defines a [visual inventory](http://danielmall.com/articles/visual-inve
 
 [The Style Guide guide](http://vinspee.me/style-guide-guide/) lists style guide generators by type
 
-* https://github.com/bradfrost/patternlab
-* http://trulia.github.io/hologram
-* https://github.com/lewisnyman/tensile
 * https://github.com/Team-Sass/generator-style-prototype
+* https://github.com/bradfrost/patternlab
+* https://github.com/lewisnyman/tensile
 * https://github.com/hagenburger/livingstyleguide
-* http://sourcejs.com
-* [Dexy](http://www.dexy.it), documentation tool
 * https://github.com/paulrobertlloyd/barebones
+* http://sourcejs.com
 
 **Automated style guides**
 
@@ -72,7 +70,8 @@ Dan Mall defines a [visual inventory](http://danielmall.com/articles/visual-inve
   * https://github.com/kneath/kss
   * https://github.com/hughsk/kss-node
 * [StyleDocco](http://jacobrask.github.io/styledocco)
-
+* [Hologram](http://trulia.github.io/hologram/)
+* [Dexy](http://www.dexy.it/)
 
 ## Frontend style guides
 
