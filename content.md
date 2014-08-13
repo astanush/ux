@@ -50,3 +50,10 @@
 * [Prismic](https://prismic.io/), content API and "writing room" tool
 * [Hemmingway](http://www.hemingwayapp.com/), analyzes your writing to make it easier to read including a grade-level reading score.
 * [Penflip](https://www.penflip.com/), collaborative writing, version control, Markdown support
+
+## Content style guides
+
+https://blog.gathercontent.com/tone-of-voice-guide
+
+* Mailchimp’s writing guidelines: http://voiceandtone.com
+* Gov.UK content style guide: https://www.gov.uk/design-principles/style-guide
