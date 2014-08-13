@@ -130,7 +130,6 @@ Entertainment Weekly by [Brad Frost](http://bradfrostweb.com/blog/post/entertain
 [Brand identity style guides from around the world](http://www.logodesignlove.com/brand-identity-style-guides) (logodesignlove.com)
 
 
-### Writing style guides
+### Content style guides
 
-* Mailchimp’s writing guidelines: http://voiceandtone.com
-* Gov.UK content style guide: https://www.gov.uk/design-principles/style-guide
+See [content style guides](https://github.com/astanush/ux/blob/master/content.md#content-style-guides)
