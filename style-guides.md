@@ -95,6 +95,8 @@ Dan Mall defines a [visual inventory](http://danielmall.com/articles/visual-inve
 * [Ubuntu](http://design.ubuntu.com/web-style-guide/)
 * [UPenn](http://www.upenn.edu/webservices/styleguide/)
 * [Yelp](http://www.yelp.com/styleguide/)
+* [Eurucamp](http://livingstyleguide.com/eurucamp/) ([source](https://github.com/eurucamp/livingstyleguide-eurucamp))
+* [Homify](http://www.homify.de/assets/styleguide.html)
 
 http://findguidelin.es/
 
