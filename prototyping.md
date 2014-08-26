@@ -18,6 +18,9 @@
 
 [HTML Wireframes](http://bradfrostweb.com/blog/post/html-wireframes/), Brad Frost
 
+[Designing in the Browser: An Efficient Route to Responsive Design](http://www.usabilityprofessionals.org/uxmagazine/designing-in-the-browser/) (usabilityprofessionals.org)
+
+
 ### Discussions
 
 [What do you use for prototyping?](https://news.layervault.com/stories/23818-ask-dn-what-do-you-use-for-prototyping) (Designer News)
