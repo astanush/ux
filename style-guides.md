@@ -23,7 +23,9 @@
 
 [Slide deck](https://speakerdeck.com/hagenburger/style-guide-driven-development): Style Guide Driven Development by Nico Hagenburger
 
-[Style Guide-driven UI Design with Sass - Jina Bolton](https://vimeo.com/45897176) (video)
+Video: [Style Guide-driven UI Design with Sass](https://vimeo.com/45897176), Jina Bolton
+
+[Style Guide Driven Development](http://webuild.envato.com/blog/styleguide-driven-development/) (envato.com)
 
 
 ## Style tiles, mood boards
