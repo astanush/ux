@@ -34,9 +34,8 @@ Video: [Style Guide-driven UI Design with Sass](https://vimeo.com/45897176), Jin
 
 [Collaborative Moodboards](http://markboulton.co.uk/journal/collaborativemoodboards/), Mark Boulton (markboulton.co.uk)
 
-## Visual inventory
 
-Dan Mall defines a [visual inventory](http://danielmall.com/articles/visual-inventory/) as "a design deliverable for the post-PSD era of responsive design".
+## Visual inventory
 
 ## Pattern libraries
 
@@ -44,11 +43,7 @@ Dan Mall defines a [visual inventory](http://danielmall.com/articles/visual-inve
 
 [Anna Debenham's bookmarks for frontend style guides](https://gimmebar.com/collection/4ecd439c2f0aaad734000022/front-end-styleguides)
 
-
-### Outdated UX patterns
-
-* http://sideproject.io/outdated-ux-patterns
-* https://github.com/Snugug/north#outdated-ux-patterns
+Dan Mall's [visual inventory](http://danielmall.com/articles/visual-inventory/) concept
 
 ### Atomic design
 
