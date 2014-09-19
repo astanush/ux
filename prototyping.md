@@ -132,15 +132,19 @@ POP: Prototyping on Paper, popapp.in
 
 ## Paper
 
-http://www.tactiledesignkit.com
+* http://www.tactiledesignkit.com
+* http://www.uistencils.com
 
-http://www.uistencils.com
 
+## Visual feedback tools
 
-## Feedback tools
+* https://trackduck.com
+* http://www.notableapp.com
+* http://www.invisionapp.com/new-features/25/livecapture-bring-the-web-into-invision
+* http://bugmuncher.com
+* http://bugherd.com
 
-http://www.notableapp.com
-
+http://www.smashingmagazine.com/2014/09/16/essential-visual-feedback-tools-for-web-designers
 
 ## User testing
 
