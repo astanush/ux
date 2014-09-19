@@ -15,6 +15,12 @@
 * http://www.nngroup.com/articles/image-vs-list-mobile-navigation/
 * http://exisweb.net/mobile-menu-abtest/
 * http://exisweb.net/menu-eats-hamburger/
+* 
+
+## Design patterns
+
+* http://bradfrost.github.io/this-is-responsive/patterns.html
+* http://codepen.io/patterns/
 
 ## Sidebars
 
