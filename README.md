@@ -10,9 +10,6 @@ A collection of articles, books, thought leaders, case studies, and tool on vari
 
 [Typography](typography.md)
 
-## Inspiration
-
-What good are processes and tools without a little [creative inspiration](inspiration.md)?
 
 ## More
 
