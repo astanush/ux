@@ -10,6 +10,10 @@ A collection of articles, books, thought leaders, case studies, and tool on vari
 
 [Typography](typography.md)
 
+[Best practices](best-practices.md)
+
+User testing (coming soon)
+
 
 ## More
 
