@@ -142,7 +142,3 @@ POP: Prototyping on Paper, popapp.in
 * http://bugherd.com
 
 http://www.smashingmagazine.com/2014/09/16/essential-visual-feedback-tools-for-web-designers
-
-## User testing
-
-TODO
