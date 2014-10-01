@@ -4,6 +4,7 @@
 
 * http://typecast.com/blog/readable-fluid-type-with-basic-css-smarts/
 * http://www.elliotjaystocks.com/blog/responsive-web-typography/
+* http://www.smashingmagazine.com/2014/09/29/balancing-line-length-font-size-responsive-web-design/
 
 ## Typographic scale
 
