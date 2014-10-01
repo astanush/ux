@@ -17,4 +17,6 @@ User testing (coming soon)
 
 ## More
 
+[Gibbon's UX Design "playlist"](https://gibbon.co/uxdesign/) for learning
+
 [Oozled](http://oozled.com/) is a curated collection of resources for web designers and developers.
