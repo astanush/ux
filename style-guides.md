@@ -64,9 +64,8 @@ Dan Mall's [visual inventory](http://danielmall.com/articles/visual-inventory/) 
 
 **Automated style guides**
 
-* [KSS](http://warpspire.com/kss)
-  * https://github.com/kneath/kss
-  * https://github.com/hughsk/kss-node
+* [KSS](http://kss-node.github.io/kss-node/)
+  * https://github.com/kss-node/kss-node
 * [StyleDocco](http://jacobrask.github.io/styledocco)
 * [Hologram](http://trulia.github.io/hologram/)
 * [Dexy](http://www.dexy.it/)
