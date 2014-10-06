@@ -131,7 +131,7 @@ POP: Prototyping on Paper, popapp.in
 
 * https://trackduck.com
 * http://www.notableapp.com
-* * http://bounceapp.com
+* http://bounceapp.com
 * http://www.invisionapp.com/new-features/25/livecapture-bring-the-web-into-invision
 * http://bugmuncher.com
 * http://bugherd.com
