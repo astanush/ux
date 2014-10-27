@@ -19,4 +19,6 @@ User testing (coming soon)
 
 [Gibbon's UX Design "playlist"](https://gibbon.co/uxdesign/) for learning
 
+[Directory of UX design services and tools](http://abetteruserexperience.com/ux-directory/) (abetteruserexperience.com)
+
 [Oozled](http://oozled.com/) is a curated collection of resources for web designers and developers.
