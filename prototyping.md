@@ -29,6 +29,7 @@ https://www.jumpchart.com
 * https://moqups.com
 * http://www.bohemiancoding.com/sketch
  * Templates: http://sketchmine.co
+* http://uxpin.com
 
 
 ### Interactive wireframes / prototypes
