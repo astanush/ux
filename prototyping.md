@@ -33,13 +33,13 @@ https://www.jumpchart.com
 
 ### Interactive wireframes / prototypes
 
+> :bulb: [This article](http://uxmag.com/articles/comparing-four-popular-page%E2%80%93based-interactive-prototyping-tools) proposes classifying prototyping tools in the following categories. It also reviews compares popular page-based tools.
+
+> * Page-based
+> * Layer-based
+> * Coding-based
+
 These tools allow you create wireframes/prototypes in the app itself, as well as making them interactive/clickable.
-
-:bulb: [This article][http://uxmag.com/articles/comparing-four-popular-page%E2%80%93based-interactive-prototyping-tools] proposes classifying prototyping tools in the following categories. It also reviews compares popular page-based tools.
-
-* Page-based
-* Layer-based
-* Coding-based
 
 * http://www.axure.com
  * [Creating responsive prototypes with Adaptive Views in Axure RP 7](http://uxdesign.smashingmagazine.com/2014/02/26/creating-responsive-prototypes-adaptive-views-axure-rp-7/)
