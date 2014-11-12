@@ -31,16 +31,20 @@ https://www.jumpchart.com
  * Templates: http://sketchmine.co
 * http://uxpin.com
 
-
 ### Interactive wireframes / prototypes
 
 These tools allow you create wireframes/prototypes in the app itself, as well as making them interactive/clickable.
+
+:bulb: [This article][http://uxmag.com/articles/comparing-four-popular-page%E2%80%93based-interactive-prototyping-tools] proposes classifying prototyping tools in the following categories. It also reviews compares popular page-based tools.
+
+* Page-based
+* Layer-based
+* Coding-based
 
 * http://www.axure.com
  * [Creating responsive prototypes with Adaptive Views in Axure RP 7](http://uxdesign.smashingmagazine.com/2014/02/26/creating-responsive-prototypes-adaptive-views-axure-rp-7/)
 * http://www.justinmind.com
 * http://www.hotgloo.com
-* http://proto.io, mobile prototypes
 * http://protytype.com
 
 
@@ -48,17 +52,17 @@ These tools allow you create wireframes/prototypes in the app itself, as well as
 
 You cannot create mock ups within the app, but using the tools above, you can make your screens clickable.
 
-* http://www.invisionapp.com
-* http://www.solidifyapp.com
-* https://marvelapp.com
+* [Invision](http://www.invisionapp.com/)
+* [Solidify](http://www.solidifyapp.com/)
+* [Marvel](https://marvelapp.com/)
 
 #### Mobile app prototypes
 
-* https://popapp.in
 * https://www.flinto.com
+* https://popapp.in
+* http://proto.io
 * http://getlaunch.com
 * https://protosketch.uistencils.com
-
 
 ## Responsive prototypes
 
