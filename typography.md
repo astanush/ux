@@ -26,6 +26,7 @@
 * [Google Web Fonts](https://www.google.com/fonts/)
 * [Fonts.com](http://www.fonts.com/)
 * [WebType](http://www.webtype.com/)
+* [Brick](http://brick.im/) Host of open source web fonts
 
 ## Web fonts on desktop
 
