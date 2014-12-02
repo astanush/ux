@@ -70,6 +70,8 @@ Dan Mall's [visual inventory](http://danielmall.com/articles/visual-inventory/) 
 * [Hologram](http://trulia.github.io/hologram/)
 * [Dexy](http://www.dexy.it/)
 
+More: https://github.com/davidhund/styleguide-generators
+
 ## Frontend style guides
 
 * [A List Apart](http://patterns.alistapart.com/) ([source](https://github.com/alistapart/pattern-library))
@@ -91,7 +93,10 @@ Dan Mall's [visual inventory](http://danielmall.com/articles/visual-inventory/) 
 * [UPenn](http://www.upenn.edu/webservices/styleguide/)
 * [Yelp](http://www.yelp.com/styleguide/)
 
-http://findguidelin.es/
+More:
+
+* http://styleguides.io/examples.html
+* http://findguidelin.es/
 
 ## Case studies
 
