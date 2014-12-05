@@ -1,7 +1,5 @@
 # User testing
 
-:construction_worker: This section is a work in progress
-
 ## Research
 
 * [UX Without User Research Is Not UX](http://www.nngroup.com/articles/ux-without-user-research-x/) (nngroup.com)
