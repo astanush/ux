@@ -1,8 +1,10 @@
-# UX process and tools
+# UX and interaction design resources
 
-A collection of articles, books, thought leaders, case studies, and tool on various topics:
+A collection of articles, books, thought leaders, case studies, and tool on various topics.
 
 [Content strategy and planning](content.md)
+
+[Grid systems](grids.md)
 
 [Prototyping](prototyping.md)
 
@@ -10,10 +12,11 @@ A collection of articles, books, thought leaders, case studies, and tool on vari
 
 [Typography](typography.md)
 
-[Best practices](best-practices.md)
-
 User testing (coming soon)
 
+## Best practices
+
+[Best practices for readability, navigation, design patterns, etc.](best-practices.md)
 
 ## More
 
