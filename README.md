@@ -12,7 +12,7 @@ A collection of articles, books, thought leaders, case studies, and tool on vari
 
 [Typography](typography.md)
 
-User testing (coming soon)
+[User testing](user-testing.md)
 
 ## Best practices
 
