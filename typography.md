@@ -6,6 +6,7 @@
 * http://www.elliotjaystocks.com/blog/responsive-web-typography/
 * http://www.smashingmagazine.com/2014/09/29/balancing-line-length-font-size-responsive-web-design/
 * http://www.visualgui.com/typography/
+* Responsive Type: [Part 1](http://8gramgorilla.com/responsive-type-part-1-choosing-fonts/), [Part 2](http://8gramgorilla.com/responsive-type-part-2-the-base-font/), [Part 3](http://8gramgorilla.com/responsive-type-part-3-headers-and-hiearchy/), [Part 4](http://8gramgorilla.com/responsive-type-part-4-responsive-consistency/)
 
 ## Typographic scale
 
