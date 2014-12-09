@@ -11,6 +11,7 @@
 * [Why wireframes should be left to die](http://www.creativebloq.com/netmag/why-wireframes-should-be-left-die-31411165/) (creativebloq.com)
 * [HTML Wireframes](http://bradfrostweb.com/blog/post/html-wireframes/), Brad Frost
 * [Designing in the Browser: An Efficient Route to Responsive Design](http://www.usabilityprofessionals.org/uxmagazine/designing-in-the-browser/) (usabilityprofessionals.org)
+* [Introduction to Prototyping](http://www.hugeinc.com/ideas/perspective/prototyping) (hugeinc.com)
 
 
 ### Discussions
