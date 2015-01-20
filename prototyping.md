@@ -32,7 +32,7 @@ https://www.jumpchart.com
  * Templates: http://sketchmine.co
 * http://uxpin.com
 * [Sketch](http://bohemiancoding.com/sketch/)
-** http://www.smashingmagazine.com/2015/01/15/all-about-customer-journey-mapping/
+ * http://www.smashingmagazine.com/2015/01/15/all-about-customer-journey-mapping/
 
 ### Interactive wireframes / prototypes
 
