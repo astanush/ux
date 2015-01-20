@@ -26,13 +26,13 @@ https://www.jumpchart.com
 
 ## Wireframing
 
-* http://balsamiq.com/products/mockups + MyBalsamiq
-* https://moqups.com
-* http://www.bohemiancoding.com/sketch
- * Templates: http://sketchmine.co
-* http://uxpin.com
+* [Balsamiq](http://balsamiq.com/products/mockups)
+* [Moqups](https://moqups.com/)
 * [Sketch](http://bohemiancoding.com/sketch/)
- * http://www.smashingmagazine.com/2015/01/15/all-about-customer-journey-mapping/
+ * http://mobileblog.invisionapp.com/11-tips-for-prototyping-with-sketch/
+ * Templates: http://sketchmine.co
+* [UXPin](http://uxpin.com/)
+
 
 ### Interactive wireframes / prototypes
 
