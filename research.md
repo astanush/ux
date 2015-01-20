@@ -1,14 +1,20 @@
-# Research tools
+# Research
+
+## Journey mapping
+
+* http://www.smashingmagazine.com/2015/01/15/all-about-customer-journey-mapping/
+
+## Tools
 
 Tools for collecting notes, websites, screenshots, articles, and other research materials.
 
 [Discussion on Desinger News](https://news.layervault.com/stories/39959-what-are-you-using-for-your-bookmarks-these-days)
 
-## Notes
+### Notes
 
 * https://evernote.com
 
-## Bookmarks / Collections
+### Bookmarks / Collections
 
 * http://getpocket.com
 * http://getstache.com
