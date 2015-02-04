@@ -1,5 +1,17 @@
 # Frontend style guides
 
+## Types of style guides
+
+http://bradfrost.com/blog/post/style-guides/
+
+* Brand Identity
+* Design Language
+* Voice and Tone
+* Writing
+* Patterns
+* Code
+
+
 ## Articles
 
 [Front-end Style Guides](http://24ways.org/2011/front-end-style-guides/), Anna Debenham (24ways.org)
@@ -27,15 +39,6 @@ Video: [Style Guide-driven UI Design with Sass](https://vimeo.com/45897176), Jin
 
 [Style Guide Driven Development](http://webuild.envato.com/blog/styleguide-driven-development/) (envato.com)
 
-
-## Style tiles, mood boards
-
-[Style Tiles and How They Work](http://alistapart.com/article/style-tiles-and-how-they-work), Samantha Warren (alistapart.com)
-
-[Collaborative Moodboards](http://markboulton.co.uk/journal/collaborativemoodboards/), Mark Boulton (markboulton.co.uk)
-
-
-## Visual inventory
 
 ## Pattern libraries
 
