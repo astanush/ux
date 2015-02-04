@@ -65,7 +65,9 @@ Dan Mall's [visual inventory](http://danielmall.com/articles/visual-inventory/) 
 * https://github.com/paulrobertlloyd/barebones
 * https://github.com/sourcejs/Source
 
-**Automated style guides**
+**Style guide generators / Automated style guides**
+
+http://alistapart.com/blog/post/style-guide-generator-roundup
 
 * [KSS](http://kss-node.github.io/kss-node/)
   * https://github.com/kss-node/kss-node
@@ -103,11 +105,13 @@ More:
 
 ## Case studies
 
-Entertainment Weekly by [Brad Frost](http://bradfrostweb.com/blog/post/entertainment-weekly/), [Josh Clark](http://globalmoxie.com/blog/entertainment-weekly.shtml), [Jonathan Stark](http://jonathanstark.com/blog/entertainment-weekly/), and [Dan Mall](http://superfriend.ly/Entertainment-Weekly-Responsive-Mobile-Site)
-
-[Code for America](http://clearleft.com/thinks/patternsharing/) by ClearLeft
-
-[Ben & Jerry's](http://cognition.happycog.com/article/the-scoop-on-our-benjerry.com-style-guide/) by Happy Cog
+* Entertainment Weekly
+ * [Brad Frost](http://bradfrostweb.com/blog/post/entertainment-weekly/)
+ * [Josh Clark](http://globalmoxie.com/blog/entertainment-weekly.shtml)
+ * [Jonathan Stark](http://jonathanstark.com/blog/entertainment-weekly/)
+ * [Dan Mall](http://superfriend.ly/Entertainment-Weekly-Responsive-Mobile-Site)
+* [Code for America](http://clearleft.com/thinks/patternsharing/) by ClearLeft
+* [Ben & Jerry's](http://cognition.happycog.com/article/the-scoop-on-our-benjerry.com-style-guide/) by Happy Cog
 
 
 ## Resources
