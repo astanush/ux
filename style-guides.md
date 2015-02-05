@@ -39,6 +39,8 @@ Video: [Style Guide-driven UI Design with Sass](https://vimeo.com/45897176), Jin
 
 [Style Guide Driven Development](http://webuild.envato.com/blog/styleguide-driven-development/) (envato.com)
 
+[Styleguide-Driven Development: The New Web Development](https://amsterdam2014.drupal.org/session/styleguide-driven-development-new-web-development), John Albin, DrupalCon Amsterdam 2014
+
 
 ## Pattern libraries
 
