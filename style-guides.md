@@ -87,6 +87,7 @@ More: https://github.com/davidhund/styleguide-generators
 * [Editorially](http://editorially.github.io/styleguide/) ([source](https://github.com/Editorially/styleguide))
 * [Github](https://github.com/styleguide/)
 * [Google](http://www.google.com/design/spec/material-design/introduction.html)
+* [GOV.UK](http://govuk-elements.herokuapp.com/)
 * [Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/)
 * [Mailchimp](http://ux.mailchimp.com/patterns)
 * [Mapbox](https://www.mapbox.com/base)
@@ -112,6 +113,8 @@ More:
  * [Dan Mall](http://superfriend.ly/Entertainment-Weekly-Responsive-Mobile-Site)
 * [Code for America](http://clearleft.com/thinks/patternsharing/) by ClearLeft
 * [Ben & Jerry's](http://cognition.happycog.com/article/the-scoop-on-our-benjerry.com-style-guide/) by Happy Cog
+* [GOV.UK](https://gdstechnology.blog.gov.uk/2014/12/11/govuk-living-style-guide/)
+* [Lonely Planet: What we would change about Rizzo](http://ianfeather.co.uk/what-we-would-change-about-rizzo/)
 
 
 ## Resources
