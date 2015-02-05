@@ -67,19 +67,25 @@ Dan Mall's [visual inventory](http://danielmall.com/articles/visual-inventory/) 
 * https://github.com/paulrobertlloyd/barebones
 * https://github.com/sourcejs/Source
 
-**Style guide generators / Automated style guides**
-
-http://alistapart.com/blog/post/style-guide-generator-roundup
+### Style guide generators / Automated style guides
 
 * [KSS](http://kss-node.github.io/kss-node/)
   * https://github.com/kss-node/kss-node
 * [StyleDocco](http://jacobrask.github.io/styledocco)
 * [Hologram](http://trulia.github.io/hologram/)
+
+
+More:
+
+* https://github.com/davidhund/styleguide-generators
+* http://alistapart.com/blog/post/style-guide-generator-roundup
+
+### Documentation tools
+
 * [Dexy](http://www.dexy.it/)
+* https://github.com/filamentgroup/X-rayHTML
 
-More: https://github.com/davidhund/styleguide-generators
-
-## Frontend style guides
+## Frontend style guide examples
 
 * [A List Apart](http://patterns.alistapart.com/) ([source](https://github.com/alistapart/pattern-library))
 * [Atlassian](https://docs.atlassian.com/aui/latest/sandbox/#)
