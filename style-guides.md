@@ -117,7 +117,7 @@ More:
 * [Ben & Jerry's](http://cognition.happycog.com/article/the-scoop-on-our-benjerry.com-style-guide/) by Happy Cog
 * [A living style guide for GOV.UK](https://gdstechnology.blog.gov.uk/2014/12/11/govuk-living-style-guide/)
 * [Lonely Planet: What we would change about Rizzo](http://ianfeather.co.uk/what-we-would-change-about-rizzo/)
-
+* [Styleguide-Driven Development at Eventbrite: Introduction](https://engineering.eventbrite.com/styleguide-driven-development-at-eventbrite-introduction/)
 
 ## Resources
 
