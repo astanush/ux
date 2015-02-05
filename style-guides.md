@@ -113,7 +113,7 @@ More:
  * [Dan Mall](http://superfriend.ly/Entertainment-Weekly-Responsive-Mobile-Site)
 * [Code for America](http://clearleft.com/thinks/patternsharing/) by ClearLeft
 * [Ben & Jerry's](http://cognition.happycog.com/article/the-scoop-on-our-benjerry.com-style-guide/) by Happy Cog
-* [GOV.UK](https://gdstechnology.blog.gov.uk/2014/12/11/govuk-living-style-guide/)
+* [A living style guide for GOV.UK](https://gdstechnology.blog.gov.uk/2014/12/11/govuk-living-style-guide/)
 * [Lonely Planet: What we would change about Rizzo](http://ianfeather.co.uk/what-we-would-change-about-rizzo/)
 
 
