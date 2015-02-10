@@ -1,17 +1,5 @@
 # Frontend style guides
 
-## Types of style guides
-
-http://bradfrost.com/blog/post/style-guides/
-
-* Brand Identity
-* Design Language
-* Voice and Tone
-* Writing
-* Patterns
-* Code
-
-
 ## Articles
 
 [Front-end Style Guides](http://24ways.org/2011/front-end-style-guides/), Anna Debenham (24ways.org)
@@ -27,6 +15,12 @@ http://bradfrost.com/blog/post/style-guides/
 [The Post PSD Era doesn’t want to kill designers](https://medium.com/ux-ux-human-interfaces/the-post-psd-era-doesnt-want-to-kill-designers-4281d505fd9a), Trevor Connolly
 
 [A Maintainable Style Guide](http://ianfeather.co.uk/a-maintainable-style-guide/), Ian Feather
+
+[Types of style guides](http://bradfrost.com/blog/post/style-guides/), Brad Frost
+
+[Style guide best practices](http://bradfrost.com/blog/post/style-guide-best-practices/), Brad Frost
+
+[Living Design System](https://medium.com/salesforce-ux/living-design-system-3ab1f2280ef7), Sönke Rohde (Salesforce)
 
 
 ## Style Guide Driven Development (SDD)
