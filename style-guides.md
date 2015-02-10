@@ -20,8 +20,6 @@
 
 [Style guide best practices](http://bradfrost.com/blog/post/style-guide-best-practices/), Brad Frost
 
-[Living Design System](https://medium.com/salesforce-ux/living-design-system-3ab1f2280ef7), Sönke Rohde (Salesforce)
-
 
 ## Style Guide Driven Development (SDD)
 
@@ -118,6 +116,10 @@ More:
 * [A living style guide for GOV.UK](https://gdstechnology.blog.gov.uk/2014/12/11/govuk-living-style-guide/)
 * [Lonely Planet: What we would change about Rizzo](http://ianfeather.co.uk/what-we-would-change-about-rizzo/)
 * [Styleguide-Driven Development at Eventbrite: Introduction](https://engineering.eventbrite.com/styleguide-driven-development-at-eventbrite-introduction/)
+* [Salesforce: Living Design System](https://medium.com/salesforce-ux/living-design-system-3ab1f2280ef7)
+ * https://github.com/salesforce-ux/design-properties
+ * https://github.com/salesforce-ux/theo
+
 
 ## Resources
 
