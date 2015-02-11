@@ -1,4 +1,6 @@
-# Frontend style guides
+# Style guides
+
+Also known as frontend style guides, pattern libraries, UI libraries, and componenet libraries
 
 ## Articles
 
