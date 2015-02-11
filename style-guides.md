@@ -93,6 +93,7 @@ More:
 * [Mapbox](https://www.mapbox.com/base)
 * [Mozilla](http://www.mozilla.org/en-US/styleguide/)
 * [Salesforce](http://sfdc-styleguide.herokuapp.com)
+* [Sass](http://sass-lang.com/styleguide)
 * [Starbucks](http://www.starbucks.com/static/reference/styleguide/)
 * [SurveyMonkey](http://chriscoyier.github.io/SurveyMonkey-Design-Patterns/)
 * [Ubuntu](http://design.ubuntu.com/web-style-guide/)
