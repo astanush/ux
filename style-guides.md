@@ -51,8 +51,6 @@ Dan Mall's [visual inventory](http://danielmall.com/articles/visual-inventory/) 
 
 ## Style guide tools
 
-[The Style Guide guide](http://vinspee.me/style-guide-guide/) lists style guide generators by type
-
 * http://patternlab.io (Available in [several flavors](https://github.com/pattern-lab/))
 * https://github.com/Team-Sass/generator-style-prototype
 * https://github.com/hagenburger/livingstyleguide
@@ -68,11 +66,11 @@ Dan Mall's [visual inventory](http://danielmall.com/articles/visual-inventory/) 
 * [StyleDocco](http://jacobrask.github.io/styledocco)
 * [Hologram](http://trulia.github.io/hologram/)
 
-
 More:
 
 * https://github.com/davidhund/styleguide-generators
 * http://alistapart.com/blog/post/style-guide-generator-roundup
+* * http://vinspee.me/style-guide-guide
 
 ### Documentation tools
 
