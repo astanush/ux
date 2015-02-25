@@ -2,7 +2,8 @@
 
 ## Journey mapping
 
-* http://www.smashingmagazine.com/2015/01/15/all-about-customer-journey-mapping/
+* http://www.smashingmagazine.com/2015/01/15/all-about-customer-journey-mapping
+* http://www.tandemseven.com/journey-mapping-techniques-for-a-better-customer-experience
 
 ## Tools
 
