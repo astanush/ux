@@ -120,7 +120,7 @@ More:
 * [Salesforce: Living Design System](https://medium.com/salesforce-ux/living-design-system-3ab1f2280ef7)
  * https://github.com/salesforce-ux/design-properties
  * https://github.com/salesforce-ux/theo
-
+* Belly: [CSS as a Service: Maintaining Style](https://speakerdeck.com/shayhowe/css-as-a-service-maintaining-style)
 
 ## Resources
 
