@@ -11,36 +11,26 @@
 * [Why wireframes should be left to die](http://www.creativebloq.com/netmag/why-wireframes-should-be-left-die-31411165/) (creativebloq.com)
 * [HTML Wireframes](http://bradfrostweb.com/blog/post/html-wireframes/), Brad Frost
 * [Designing in the Browser: An Efficient Route to Responsive Design](http://www.usabilityprofessionals.org/uxmagazine/designing-in-the-browser/) (usabilityprofessionals.org)
-* [Introduction to Prototyping](http://www.hugeinc.com/ideas/perspective/prototyping) (hugeinc.com)
+* [Introduction to Prototyping](http://www.hugeinc.com/ideas/perspective/prototyping/) (hugeinc.com)
+* [Prototyping Tools and Process](https://medium.com/greylock-perspectives/prototyping-tools-and-process-ab63831f8486/) Survey results from design teams at Medium, Airbnb, Uber, Apple, Eventbrite, and Pinterest
 
 
 ### Discussions
 
 [What do you use for prototyping?](https://news.layervault.com/stories/23818-ask-dn-what-do-you-use-for-prototyping) (Designer News)
 
-## Planning
-
-### IA planning
-
-https://www.jumpchart.com
 
 ## Wireframing
 
 * [Balsamiq](http://balsamiq.com/products/mockups)
 * [Moqups](https://moqups.com/)
 * [Sketch](http://bohemiancoding.com/sketch/)
- * http://mobileblog.invisionapp.com/11-tips-for-prototyping-with-sketch/
+ * [11 tips for prototyping with Sketch](http://mobileblog.invisionapp.com/11-tips-for-prototyping-with-sketch/)
  * Templates: http://sketchmine.co
 * [UXPin](http://uxpin.com/)
 
 
-### Interactive wireframes / prototypes
-
-> :bulb: [This article](http://uxmag.com/articles/comparing-four-popular-page%E2%80%93based-interactive-prototyping-tools) proposes classifying prototyping tools in the following categories. It also reviews compares popular page-based tools.
-
-> * Page-based
-> * Layer-based
-> * Coding-based
+## Interactive prototypes / Click-through wireframes
 
 These tools allow you create wireframes/prototypes in the app itself, as well as making them interactive/clickable.
 
@@ -49,7 +39,6 @@ These tools allow you create wireframes/prototypes in the app itself, as well as
 * http://www.justinmind.com
 * http://www.hotgloo.com
 * http://protytype.com
-
 
 ### BYOS (Bring Your Own Screens)
 
@@ -67,7 +56,12 @@ You cannot create mock ups within the app, but using the tools above, you can ma
 * http://getlaunch.com
 * https://protosketch.uistencils.com
 
-## Responsive prototypes
+#### Tool reviews
+
+* [Page-based tools](http://uxmag.com/articles/comparing-four-popular-page%E2%80%93based-interactive-prototyping-tools/) (UXMag.com)
+* [Layer-based and code-based tools](https://uxmag.com/articles/comparing-popular-layer-based-and-code-based-prototyping-tools/) (UXMag.com)
+
+### Responsive prototypes
 
 * https://www.easel.io
  * [Includes support for Bootstrap](http://help.easel.io/guide/using-bootstrap)
