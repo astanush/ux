@@ -114,28 +114,8 @@ http://usablica.github.io/front-end-frameworks/compare.html
 * https://github.com/Snugug/generator-sketch
 * https://github.com/google/web-starter-kit
 
-### Grid systems
-
-* gridsetapp.com
-
 
 ## Paper
 
 * http://www.tactiledesignkit.com
 * http://www.uistencils.com
-
-### Paper prototyping + mobile
-
-POP: Prototyping on Paper, popapp.in
-
-
-## Visual feedback tools
-
-* https://trackduck.com
-* http://www.notableapp.com
-* http://bounceapp.com
-* http://www.invisionapp.com/new-features/25/livecapture-bring-the-web-into-invision
-* http://bugmuncher.com
-* http://bugherd.com
-
-http://www.smashingmagazine.com/2014/09/16/essential-visual-feedback-tools-for-web-designers
