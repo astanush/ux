@@ -45,16 +45,16 @@ These tools allow you create wireframes/prototypes in the app itself, as well as
 You cannot create mock ups within the app, but using the tools above, you can make your screens clickable.
 
 * [Invision](http://www.invisionapp.com/)
-* [Solidify](http://www.solidifyapp.com/)
 * [Marvel](https://marvelapp.com/)
+* [Solidify](http://www.solidifyapp.com/), part of the Zurb suite
 
 #### Mobile app prototypes
 
-* https://www.flinto.com
-* https://popapp.in
-* http://proto.io
-* http://getlaunch.com
-* https://protosketch.uistencils.com
+* [Flinto](https://www.flinto.com/)
+* [Proto.io](http://proto.io/)
+* [Fluid](https://www.fluidui.com/)
+* [POP](https://popapp.in/)
+* [Launch](http://getlaunch.com/)
 
 #### Tool reviews
 
