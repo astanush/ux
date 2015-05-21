@@ -53,6 +53,8 @@
 
 ### Tools
 
+* [Blaze](https://www.blazecontent.com/), automated content inventory
+* [CAT (Content Analysis Tool)](https://www.content-insight.com/), Content inventory and analysis
 * [GatherContent](https://www.gathercontent.com/)
 * [After Editorially: The Search For Alternative Collaborative Online Writing Tools](http://www.smashingmagazine.com/2014/04/17/after-editorially-alternative-collaborative-online-writing-tools/) (smashingmagazine.com)
 * [Prismic](https://prismic.io/), content API and "writing room" tool
