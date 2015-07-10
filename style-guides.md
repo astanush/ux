@@ -2,7 +2,7 @@
 
 Also known as frontend style guides, pattern libraries, UI libraries, and componenet libraries
 
-:information_desk_person: [StyleGuides.io](http://styleguides.io/examples.html) is probably the complete resource for articles, tools, and examples.
+:information_desk_person: [StyleGuides.io](http://styleguides.io/examples.html) is probably the most complete resource for articles, tools, and examples.
 
 ## Articles
 
