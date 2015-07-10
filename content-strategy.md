@@ -1,7 +1,5 @@
 # Content Strategy
 
-## Content strategy
-
 ### Articles
 
 * [Content Strategy articles on A List Apart](http://alistapart.com/topic/content-strategy/)
