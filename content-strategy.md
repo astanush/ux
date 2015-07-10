@@ -1,4 +1,4 @@
-#Content strategy and planning
+# Content Strategy
 
 ## Content strategy
 
