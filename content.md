@@ -36,6 +36,7 @@
 * Content Audits and Inventories: A Handbook
 * A Practical Guide to Information Architecture
 * Author Experience: Bridging the gap between people and technology in content management
+* [The Content Strategy Toolkit](http://thecontentstrategytoolkit.com/), Meghan Casey
 
 
 ### Events
