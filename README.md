@@ -2,23 +2,19 @@
 
 A collection of articles, books, thought leaders, case studies, and tools related to the various disciplines of UX.
 
-[Content Strategy](content-strategy.md)
+* [Content Strategy](content-strategy.md)
+* [Prototyping](prototyping.md)
+* [Style guides](style-guides.md)
+* [Typography](typography.md)
+* [User testing](user-testing.md)
 
-[Grid systems](grids.md)
-
-[Prototyping](prototyping.md)
-
-[Style guides](style-guides.md)
-
-[Typography](typography.md)
-
-[User testing](user-testing.md)
-
-## Best practices
+### Best practices
 
 [Best practices for readability, navigation, design patterns, etc.](best-practices.md)
 
-## More
+## More resources
+
+[UX Community on Slack](http://www.designerhangout.co/)
 
 [Gibbon's UX Design "playlist"](https://gibbon.co/uxdesign/) for learning
 
