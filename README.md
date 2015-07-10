@@ -2,7 +2,7 @@
 
 A collection of articles, books, thought leaders, case studies, and tools related to the various disciplines of UX.
 
-[Content strategy and planning](content.md)
+[Content Strategy](content-strategy.md)
 
 [Grid systems](grids.md)
 
