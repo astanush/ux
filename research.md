@@ -1,5 +1,7 @@
 # Research
 
+* https://userresearch.blog.gov.uk/2015/03/18/so-youre-going-to-be-a-user-researcher-top-tips-to-get-you-going/
+
 ## Journey mapping
 
 * http://www.smashingmagazine.com/2015/01/15/all-about-customer-journey-mapping
@@ -10,10 +12,6 @@
 Tools for collecting notes, websites, screenshots, articles, and other research materials.
 
 [Discussion on Desinger News](https://news.layervault.com/stories/39959-what-are-you-using-for-your-bookmarks-these-days)
-
-### Notes
-
-* https://evernote.com
 
 ### Bookmarks / Collections
 
