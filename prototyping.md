@@ -15,6 +15,9 @@ To sort: http://www.cooper.com/prototyping-tools
 * [Designing in the Browser: An Efficient Route to Responsive Design](http://www.usabilityprofessionals.org/uxmagazine/designing-in-the-browser/) (usabilityprofessionals.org)
 * [Introduction to Prototyping](http://www.hugeinc.com/ideas/perspective/prototyping/) (hugeinc.com)
 * [Prototyping Tools and Process](https://medium.com/greylock-perspectives/prototyping-tools-and-process-ab63831f8486/) Survey results from design teams at Medium, Airbnb, Uber, Apple, Eventbrite, and Pinterest
+* [The Skeptic’s Guide To Low-Fidelity Prototyping](https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/)
+* [Creating Content Wireframes For Responsive Design
+By Tom Green](https://www.smashingmagazine.com/2016/02/create-content-wireframes-for-responsive-design/)
 
 
 ### Discussions
